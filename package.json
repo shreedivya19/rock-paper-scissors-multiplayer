@@ -1,7 +1,7 @@
 {
-  "name": "multiplayer-rock-paper-scissors",
-  "version": "1.0.0",
-  "description": "A real-time multiplayer Rock Paper Scissors game built with Node.js, Express, and Socket.IO",
+  "name": "multiplayer-rock-paper-scissor",
+  "version": "2.0.0",
+  "description": "Real-time multiplayer Rock Paper Scissors game with enhanced features",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -12,30 +12,21 @@
     "multiplayer",
     "game",
     "rock-paper-scissors",
-    "socket.io",
-    "nodejs",
-    "express",
+    "socketio",
     "realtime"
   ],
-  "author": "Your Name",
+  "author": "shreedivya19",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.21.2",
-    "socket.io": "^4.8.1"
+    "express": "^4.18.2",
+    "socket.io": "^4.7.4",
+    "uuid": "^9.0.1",
+    "cors": "^2.8.5"
   },
   "devDependencies": {
-    "nodemon": "^3.1.10"
+    "nodemon": "^3.0.2"
   },
   "engines": {
-    "node": ">=14.0.0",
-    "npm": ">=6.0.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/shreedivya19/multiplayer-rock-paper-scissors.git"
-  },
-  "bugs": {
-    "url": "https://github.com/shreedivya19/multiplayer-rock-paper-scissors/issues"
-  },
-  "homepage": "https://github.com/shreedivya19/multiplayer-rock-paper-scissors#readme"
+    "node": ">=14.0.0"
+  }
 }
