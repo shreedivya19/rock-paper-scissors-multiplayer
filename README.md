@@ -4,7 +4,7 @@ A real-time multiplayer Rock Paper Scissors game built with Node.js, Express, an
 
 ## 🚀 Live Demo
 
-**[Play Pizza Palace Now!](https://shreedivya19.github.io/rock-paper-scissors-multiplayer)**
+**[Play Now!](https://shreedivya19.github.io/rock-paper-scissors-multiplayer)**
 
 ## 💡 Game Tips
 
